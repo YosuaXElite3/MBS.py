@@ -482,7 +482,7 @@ def ganti_ua():
 		dump = open('.ua','w') 
 		dump.write(uq)
 		dump.close()
-		exit(war+"Jalankan Lagi Script : python jmbf.py")
+		exit(war+"Jalankan Lagi Script : python MBS.py")
 
 
 def jalan(z):
